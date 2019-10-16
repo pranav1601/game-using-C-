@@ -521,7 +521,7 @@ void p(char b[24][80])
 	}
     }
 }
-
+//using * for design purpose
 //checking if the user passed the level or not
 int result(char a[24][80],int g,int difficult)
 {
